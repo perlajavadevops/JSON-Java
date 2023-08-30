@@ -1,0 +1,8 @@
+{
+	"salary": 2000.0,
+	"technologies": [
+		"Java",
+		"Spring Boot"
+	],
+	"empId": 101
+}
